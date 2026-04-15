@@ -1,0 +1,8 @@
+{
+  "network": "localhost",
+  "timestamp": "2026-04-06T06:16:19.143Z",
+  "contracts": {
+    "ProductNFT": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "luxury_supply_chain": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+  }
+}
